@@ -1,9 +1,6 @@
 # Bubble_Identification_MTS
-
-The plasma-sheet bubble identification models are for Paper "Plasma-Sheet Bubble Identification Using Multivariate Time Series Classification". The paper is subbmitted to Journal of Geophysical Research. 
-
-This code consists of two parts, including "model_construction" and "predict_code".
-
+This is the official repository for JGR paper "Plasma-Sheet Bubble Identification Using Multivariate Time Series Classification".   
+This code consists of two parts, including "model_construction" and "predict_code".  
 The best trained model result is in the folder "best_model_result".
 
 
